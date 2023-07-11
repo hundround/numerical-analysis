@@ -1,2 +1,2 @@
 # numerical-analysis
-Compiled exercises on Math 171 (Numerical Analysis) taken at the University of the Philippines Diliman. 
+Compiled exercises on `Numerical Analysis` taken in partial fulfillment at the University of the Philippines Diliman.
